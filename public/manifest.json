@@ -1,0 +1,18 @@
+﻿{
+  "name": "บันทึกรายรับ-รายจ่าย",
+  "short_name": "รายรับรายจ่าย",
+  "description": "แอปบันทึกรายรับ-รายจ่ายส่วนตัว ใช้งานได้ทั้ง Web, iPhone และ iPad",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
